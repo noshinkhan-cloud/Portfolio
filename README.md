@@ -7,7 +7,7 @@ In addition, I have done CAD modelling and simple game design. Below is a descri
 
 ### Graphic Design
 
-I created both a logo design and poster creation using Canva for an imaginative businness concept, named "Noshin's Knits & Crafts." It incorporated an understanding of how to make graphic art uniquely eye-catching, which includes having different textual and visual elements.
+I created both a logo design and poster creation using Canva for an imaginative businness concept, named "Noshin's Knits & Crafts." It incorporates an understanding of how to make graphic art uniquely eye-catching, which includes having different textual and visual elements.
 
 ### Python Programming 
 
