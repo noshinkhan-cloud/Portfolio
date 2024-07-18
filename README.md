@@ -11,6 +11,6 @@ I created both a logo design and poster creation using Canva for an imaginative 
 
 ### Python Programming 
 
-From this python coding experience, I was able to make a Number Guessing Game and a Python Calculator. The Number Guessing Game and Python Calculator displays my learning of assigning a variable and input functions. Other python projects included Data visualization and Data analysis, where I learned how to import different libraries and code a variation of graphs (e.g., histgraph, bargraph, scatterplot, etc). Along with this, I collected my own Sleep Schedule data and looked for trends and insights. This was all done using Replit. 
+From this python coding experience, I was able to make a Number Guessing Game and a Python Calculator. The Number Guessing Game and Python Calculator displays my learning of assigning a variable and input functions. Other python projects included Data visualization and Data analysis, where I learned how to import different libraries and code a variation of graphs (e.g., histgraph, bargraph, scatterplot, etc). This was all done using Replit. Along with this, I collected my own Sleep Schedule dataset with Google Sheets and looked for trends and insights. 
 
 
